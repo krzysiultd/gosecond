@@ -1,0 +1,5 @@
+mode: set
+github/gosecond/049-testing/01-test/main.go:5.13,9.2 3 0
+github/gosecond/049-testing/01-test/main.go:11.27,13.23 2 1
+github/gosecond/049-testing/01-test/main.go:16.2,16.12 1 1
+github/gosecond/049-testing/01-test/main.go:13.23,15.3 1 1
